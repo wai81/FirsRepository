@@ -1,2 +1,3 @@
 Good bye!
 bla bla
+line from user2
